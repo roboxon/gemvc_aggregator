@@ -1,0 +1,20 @@
+{
+    "name": "roboxon/gemvc_aggregator",
+    "description": "Gemvc OpenSwoole  Microservice Aggregator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Roboxon\\GemvcAggregator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roboxon"
+        }
+    ],
+    "require": {
+        "guzzlehttp/psr7": "^2.6",
+        "firebase/php-jwt": "^6.8"
+    }
+}
