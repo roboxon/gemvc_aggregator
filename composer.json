@@ -1,6 +1,6 @@
 {
     "name": "roboxon/gemvc_aggregator",
-    "description": "Gemvc OpenSwoole  Microservice Aggregator",
+    "description": "Gemvc Microservice Aggregator",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -10,7 +10,9 @@
     },
     "authors": [
         {
-            "name": "Roboxon"
+            "name": "Ali Khorsandfard", 
+            "role": "Developer",
+            "email": "secure73@gmail.com"
         }
     ],
     "require": {
